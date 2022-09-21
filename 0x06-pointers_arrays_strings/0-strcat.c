@@ -5,7 +5,7 @@
  *@src - the string source to appended to @dest
  *Return: pointer to a destination string
  */
-char *strcat(char *dest cont char *src)
+char *_strcat(char *dest cont char *src)
 {
 int index = 0, dest_len = 0;
 while (dest[index++])
