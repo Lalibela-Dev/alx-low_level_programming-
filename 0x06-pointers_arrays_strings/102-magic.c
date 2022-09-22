@@ -1,11 +1,4 @@
 #include <stdio.h>
-/**
- *write your line of code here...
- *you are not allowed to use a
- *you are not allowed to modify p
- *only one statement
- *you are not allowed to code anything else than this line of code
- */
 int main(void)
 {
 int n;
@@ -18,3 +11,11 @@ p[5] = 98;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
+/**
+ *write your line of code here
+ *only one statement
+ *you are not allowed to modify anything
+ *you are not allowed to code anything else than this line of code
+ *you are not allowed to use a
+ *remenber this all
+ */
