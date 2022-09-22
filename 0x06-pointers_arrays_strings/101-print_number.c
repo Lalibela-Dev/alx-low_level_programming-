@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * main - check the code
- *Return: Always 0.
+ *print_number - prints an integer
+ *@num: int to print
+ *Return: void
  */
 void print_number(int num)
 {
