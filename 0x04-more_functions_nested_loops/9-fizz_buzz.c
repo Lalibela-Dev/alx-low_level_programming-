@@ -26,7 +26,7 @@ printf("%i", i);
 }
 if (i != 100)
 {
-putchar('\n');
+putchar(' ');
 }
 i++;
 }
