@@ -23,6 +23,5 @@ return (p);
 j++;
 }
 i++;
-}
 return (0);
 }
