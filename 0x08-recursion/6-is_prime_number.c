@@ -18,7 +18,7 @@ return (prime_check(f + 1, p));
  *is_prime_number - States if number is prime
  *@n: Number to check
  *Return: 1 if prime, 0 if not
- *
+ */
 int is_prime_number(int n)
 {
 if (n == 2)
